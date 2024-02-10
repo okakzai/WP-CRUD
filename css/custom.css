@@ -1,0 +1,22 @@
+table.table {
+  width: 100%;
+  border: solid 1px black;
+}
+
+table.table th,
+table.table td {
+  border: solid 1px black;
+  text-align: center !important;
+}
+
+form {
+  margin-bottom: 15px;
+}
+
+form .form-group {
+  margin-bottom: 5px;
+}
+
+form .form-group label {
+  display: block;
+}
